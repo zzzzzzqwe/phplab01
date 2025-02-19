@@ -9,5 +9,5 @@
 
 ## Шаг 1: Установка PHP
 
-Для установки php я захожу на официальный сайт (https://www.php.net/downloads)[https://www.php.net/downloads] и устанавливаю актуальную версию
+Для установки php я захожу на официальный сайт [https://www.php.net/downloads](https://www.php.net/downloads) и устанавливаю актуальную версию
 
