@@ -93,5 +93,5 @@ echo может принимать несколько аргументов, а p
 1. (https://www.php.net/)[Официальный сайт php]
 2. (https://moodle.usm.md/mod/assign/view.php?id=300532)[Курс на Moodle - Advanced Web Development]
 
-3. (Официальный сайт php)[https://www.php.net/]
-4. (Курс на Moodle - Advanced Web Development)[https://moodle.usm.md/mod/assign/view.php?id=300532]
+3. Официальный сайт php. [https://www.php.net/]
+4. Курс на Moodle - Advanced Web Development. [https://moodle.usm.md/mod/assign/view.php?id=300532]
