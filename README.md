@@ -90,8 +90,5 @@ echo может принимать несколько аргументов, а p
 В ходе выполнения данной лабораторной работы я научился устанавливать php, вносить путь к нему в переменные среды, устанавливать и запускать PHP Server, а также проверять и решать проблемы с установкой php.
 
 ## Библиография
-1. (https://www.php.net/)[Официальный сайт php]
-2. (https://moodle.usm.md/mod/assign/view.php?id=300532)[Курс на Moodle - Advanced Web Development]
-
-3. Официальный сайт php. [https://www.php.net/]
-4. Курс на Moodle - Advanced Web Development. [https://moodle.usm.md/mod/assign/view.php?id=300532]
+1. Официальный сайт php. [https://www.php.net/](https://www.php.net/)
+2. Курс на Moodle - Advanced Web Development. [https://moodle.usm.md/mod/assign/view.php?id=300532](https://moodle.usm.md/mod/assign/view.php?id=300532)
