@@ -9,13 +9,11 @@
 
 ## Шаг 1: Установка PHP
 
-Для установки php я захожу на официальный сайт [https://www.php.net/downloads](https://www.php.net/downloads) и устанавливаю актуальную версию
+Для установки php я захожу на официальный сайт [https://www.php.net/downloads](https://www.php.net/downloads) и устанавливаю актуальную версию.
+
+Далее добавляю папку с php в переменные среды Path.
 
 ![image](screenshots/Screenshot_0.png) 
-
-Далее добавляю папку с php в переменные среды Path
-
-![image](screenshots/Screenshot_1.png) 
 
 Затем проверяю верную установку php прописывая php -v в cmd
 
