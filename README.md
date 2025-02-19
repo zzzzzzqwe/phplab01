@@ -11,15 +11,15 @@
 
 Для установки php я захожу на официальный сайт [https://www.php.net/downloads](https://www.php.net/downloads) и устанавливаю актуальную версию
 
-screen 1
+![image](screenshots/Screenshot_0.png) 
 
 Далее добавляю папку с php в переменные среды Path
 
-screen 2
+![image](screenshots/Screenshot_1.png) 
 
 Затем проверяю верную установку php прописывая php -v в cmd
 
-screen 3
+![image](screenshots/Screenshot_2.png) 
 
 php установлен.
 
